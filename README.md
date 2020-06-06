@@ -1,5 +1,7 @@
 # password-generator
+
 Project Overview
+The URL of deployed application/site is https://miao0007.github.io/password-generator/
 The aim of this project is to create a passwaord generator for user.
 It looks like this:
 ![image](https://github.com/miao0007/password-generator/blob/master/Assets/images/screen_shot2.png)
