@@ -12,3 +12,5 @@ It looks like this:
 4.When all questions be answered, a password is generated that matches the selected criteria will be displayed on text area.
 looks like this
 ![image](https://github.com/miao0007/password-generator/blob/master/Assets/images/screen_shot.png)
+
+For further job, to add more functions, such as copy and save password.
